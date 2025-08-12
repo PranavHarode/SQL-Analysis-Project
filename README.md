@@ -24,8 +24,8 @@ The **Classic Models** database is a sample dataset containing:
 - **Offices** – Locations of offices worldwide.
 - **Payments** – Payment transactions from customers.
 
-**Database ER Diagram** *(Optional – Add image here)*  
-![ER Diagram](ER-diagram.png")
+**Database ER Diagram** 
+![ER Diagram](ER-diagram.png)
 
 ---
 
@@ -67,9 +67,7 @@ The **Classic Models** database is a sample dataset containing:
 - **Customers with No Recent Orders**
 - **Top Sales Representatives by Region**
 
-*(Optional – You can add screenshots of visuals here)*  
-Example:  
-![Sales by Country](top5-customers.png)
+
 
 ---
 
@@ -78,6 +76,10 @@ Example:
 2. **Sales Distribution by Country** – Pie chart
 3. **Monthly Sales Trends** – Line chart
 4. **Top 5 Product Categories by Revenue** – Horizontal bar chart
+
+
+Example:  
+![Sales by Country](top5-customers.png)
 
 ---
 

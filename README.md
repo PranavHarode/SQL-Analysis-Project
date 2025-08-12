@@ -1,10 +1,11 @@
 # SQL-Analysis-Project
 This project demonstrates advanced SQL querying skills using the MyDB dataset. The focus is on complex filtering techniques and subqueries to extract meaningful business insights from multiple related tables.
-# 📊 Classic Models Sales Analysis – MySQL Project
+# 📊MyDB Sales Analysis – MySQL Project
 
 ## 📌 Project Overview
-This project is a **beginner-to-intermediate level SQL portfolio project** built using the **Classic Models** sample database.  
+This project is a **beginner-to-intermediate level SQL portfolio project** built using the **MyDB** sample database Downloaded From Public Domain.  
 It demonstrates **Advanced Filtering, Subqueries, Joins, and Aggregations** to extract meaningful business insights from sales data.
+
 
 The goal of this project was to:
 - Strengthen SQL skills with real-world-style queries.
@@ -23,6 +24,7 @@ The **Classic Models** database is a sample dataset containing:
 - **Employees** – Employee information including sales reps.
 - **Offices** – Locations of offices worldwide.
 - **Payments** – Payment transactions from customers.
+  Dataset Link : https://www.mysqltutorial.org/wp-content/uploads/2023/10/mysqlsampledatabase.zip
 
 **Database ER Diagram** 
 ![ER Diagram](ER-diagram.png)
